@@ -13,7 +13,7 @@ The better the bug report, the easier it becomes for me to help and/or fix bugs.
 * A full build log. You can create this, e.g., as follows:
 
     ```
-    yaourt -F pkgname
+    yaourt -G pkgname
     cd pkgname
     makepkg 2>&1 | tee pkgname.log
     ```
