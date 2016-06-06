@@ -1,8 +1,8 @@
 # aur-pkgbuilds
 
-Please use the issue tracker to report any issues with my [AUR PKGBUILDs](https://aur.archlinux.org/packages/?SeB=m&K=aggraef).
+Please use the issue tracker to report any problems with my [AUR PKGBUILDs](https://aur.archlinux.org/packages/?SeB=m&K=aggraef).
 
-The better the bug report, the easier it becomes for me to help. Please provide (at least) the following information:
+The better the bug report, the easier it becomes for me to help and/or fix bugs. Please provide (at least) the following information:
 
 * The name of the package you're trying to build, including version and revision information.
 
